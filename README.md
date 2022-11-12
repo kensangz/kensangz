@@ -2,7 +2,7 @@
 - 👀 I’m interested in B site
 - 🌱 I’m currently learning to sleep
 - 💞️ I’m looking to collaborate on Hat yai chicken
-- 📫 My achivement is sleep 24 hrs in one day.
+- 📫 My achivement are study in Data Engineer, science knowledge and become to work at a famous tech companies.
 
 <!---
 kensangz/kensangz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
